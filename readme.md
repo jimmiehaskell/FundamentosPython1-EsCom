@@ -2,6 +2,7 @@
 
 
 Repositório utilizado durante o curso ministrado pela escola de Comunicações do Exército, EsCom.
+Curso iniciado no dia 20/10/2025.
 
 Este curso está dividido em quatro módulos além de um exame final do curso e um exame de certificação:
 1. Módulo: Introdução à programação de computadores e Python;
